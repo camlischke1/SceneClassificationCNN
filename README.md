@@ -6,7 +6,7 @@ This uses the Scene Classification Kaggle dataset. The task is to identify which
 
 # Naive Model
 
-# 
+# Tuned Model
 
 
 
